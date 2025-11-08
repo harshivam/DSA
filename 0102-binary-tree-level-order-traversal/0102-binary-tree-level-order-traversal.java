@@ -14,14 +14,9 @@
  * }
  */
 class Solution {
-    static List<List<Integer>> list;
     public List<List<Integer>> levelOrder(TreeNode root) {
         if(root==null) return Collections.emptyList();
-        list = new ArrayList<>();
-        bfs(root);
-        return list;
-    }
-    static void bfs(TreeNode root){
+        List<List<Integer>> list = new ArrayList<>();
         Queue<TreeNode> q = new LinkedList();
         q.add(root);
         while(!q.isEmpty()){
@@ -35,5 +30,7 @@ class Solution {
             }
             list.add(levelList);
         }
+        return list;
     }
+
 }
