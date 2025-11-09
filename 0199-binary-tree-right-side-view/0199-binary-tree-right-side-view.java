@@ -30,7 +30,7 @@ class Solution {
                     if(node.right!=null) q.offer(node.right);
                 }
             }
-            list.add(level.get(0).val);
+            list.add(level.getFirst().val);
         }
         return list;
     }
