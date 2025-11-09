@@ -9,12 +9,14 @@ Practicing DSA!!
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -22,6 +24,7 @@ Practicing DSA!!
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Array
@@ -50,4 +53,5 @@ Practicing DSA!!
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
