@@ -14,28 +14,22 @@
  * }
  */
 class Solution {
+    static int maxDepth;
+    static int ans;
     public int findBottomLeftValue(TreeNode root) {
-        if(root.left==null && root.right==null) return root.val;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-        int ans = 0;
-        while(!q.isEmpty()){
-            TreeNode node = q.poll();
-            if(node.right!=null) q.offer(node.right);
-            if(node.left!=null) q.offer(node.left);
-            ans = node.val;
-            
-        }
+        maxDepth = -1;
+        ans = 0;
+        dfs(root,0);
         return ans;
-        
     }
-    static int helper(TreeNode node ){
-     if(node==null) return Integer.MIN_VALUE;
 
-     int max = Math.max(helper( node.left),node.val);
-
-     
-     helper( node.right);
-     return max;
+    static void dfs(TreeNode node,int depth){
+        if(node==null) return;
+        if(depth>maxDepth){
+            maxDepth = depth;
+            ans = node.val;
+        }
+        dfs(node.left,depth+1);
+        dfs(node.right,depth+1);
     }
 }
