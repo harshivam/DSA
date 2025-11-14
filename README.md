@@ -38,6 +38,7 @@ Practicing DSA!!
 ## Array
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
@@ -64,4 +65,12 @@ Practicing DSA!!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshivam/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
