@@ -17,6 +17,7 @@ Practicing DSA!!
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Practicing DSA!!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshivam/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Practicing DSA!!
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +63,7 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
