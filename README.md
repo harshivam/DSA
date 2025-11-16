@@ -15,6 +15,7 @@ Practicing DSA!!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshivam/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -68,6 +69,7 @@ Practicing DSA!!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshivam/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Simulation
 |  |
 | ------- |
