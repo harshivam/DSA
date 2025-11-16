@@ -30,7 +30,7 @@ class Solution {
                 Node node = q.poll();
                 if(node!=null) list.add(node.val);
                 for(Node nodeChild: node.children){
-                q.add(nodeChild);
+                q.offer(nodeChild);
             }
             
          }
