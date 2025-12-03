@@ -6,6 +6,7 @@ Practicing DSA!!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/harshivam/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -43,6 +44,7 @@ Practicing DSA!!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/harshivam/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -68,6 +70,7 @@ Practicing DSA!!
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Greedy
 |  |
@@ -80,6 +83,7 @@ Practicing DSA!!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -109,4 +113,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/harshivam/DSA/tree/master/0113-path-sum-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
