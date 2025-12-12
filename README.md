@@ -83,6 +83,7 @@ Practicing DSA!!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harshivam/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Greedy
@@ -133,10 +134,15 @@ Practicing DSA!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harshivam/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 ## Linked List
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshivam/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
