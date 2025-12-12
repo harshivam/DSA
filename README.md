@@ -14,6 +14,7 @@ Practicing DSA!!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshivam/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/harshivam/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/harshivam/DSA/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -35,6 +36,7 @@ Practicing DSA!!
 | [0101-symmetric-tree](https://github.com/harshivam/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshivam/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/harshivam/DSA/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -56,6 +58,7 @@ Practicing DSA!!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshivam/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/harshivam/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/harshivam/DSA/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -104,6 +107,7 @@ Practicing DSA!!
 | [0102-binary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshivam/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -126,4 +130,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
