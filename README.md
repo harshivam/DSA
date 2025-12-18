@@ -29,6 +29,7 @@ Practicing DSA!!
 | [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/harshivam/DSA/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
@@ -50,6 +51,7 @@ Practicing DSA!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -76,6 +78,7 @@ Practicing DSA!!
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/harshivam/DSA/tree/master/1609-even-odd-tree) |
 ## Array
@@ -121,6 +124,7 @@ Practicing DSA!!
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/harshivam/DSA/tree/master/1609-even-odd-tree) |
 ## Simulation
