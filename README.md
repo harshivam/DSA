@@ -18,6 +18,7 @@ Practicing DSA!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/harshivam/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshivam/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -45,6 +46,7 @@ Practicing DSA!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/harshivam/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshivam/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -72,6 +74,7 @@ Practicing DSA!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/harshivam/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshivam/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -127,6 +130,7 @@ Practicing DSA!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/harshivam/DSA/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
