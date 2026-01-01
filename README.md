@@ -96,11 +96,13 @@ Practicing DSA!!
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshivam/DSA/tree/master/0066-plus-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/harshivam/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshivam/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/harshivam/DSA/tree/master/0096-unique-binary-search-trees) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
