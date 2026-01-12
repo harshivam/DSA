@@ -30,6 +30,7 @@ Practicing DSA!!
 | [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/harshivam/DSA/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -57,6 +58,7 @@ Practicing DSA!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/harshivam/DSA/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -89,6 +91,7 @@ Practicing DSA!!
 | [0543-diameter-of-binary-tree](https://github.com/harshivam/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/harshivam/DSA/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -145,6 +148,7 @@ Practicing DSA!!
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/harshivam/DSA/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -179,6 +183,7 @@ Practicing DSA!!
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
