@@ -105,6 +105,7 @@ Practicing DSA!!
 | [0066-plus-one](https://github.com/harshivam/DSA/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/harshivam/DSA/tree/master/1390-four-divisors) |
+| [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
@@ -186,4 +187,17 @@ Practicing DSA!!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
+## String
+|  |
+| ------- |
+| [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
+## Design
+|  |
+| ------- |
+| [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
+## Matrix
+|  |
+| ------- |
+| [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 <!---LeetCode Topics End-->
