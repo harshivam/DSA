@@ -175,6 +175,7 @@ Practicing DSA!!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/harshivam/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Memoization
@@ -200,4 +201,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/harshivam/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
