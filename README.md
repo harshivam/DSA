@@ -205,4 +205,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshivam/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/harshivam/DSA/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
