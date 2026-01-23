@@ -119,10 +119,12 @@ Practicing DSA!!
 ## Greedy
 |  |
 | ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
 | ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Binary Search Tree
 |  |
@@ -209,4 +211,9 @@ Practicing DSA!!
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/harshivam/DSA/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
