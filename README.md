@@ -105,6 +105,7 @@ Practicing DSA!!
 | [0066-plus-one](https://github.com/harshivam/DSA/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/harshivam/DSA/tree/master/1390-four-divisors) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -119,11 +120,13 @@ Practicing DSA!!
 ## Greedy
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Binary Search Tree
@@ -216,4 +219,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
