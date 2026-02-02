@@ -49,6 +49,7 @@ Practicing DSA!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harshivam/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshivam/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -104,6 +105,7 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshivam/DSA/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/harshivam/DSA/tree/master/0733-flood-fill) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/harshivam/DSA/tree/master/1390-four-divisors) |
@@ -154,6 +156,7 @@ Practicing DSA!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harshivam/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/harshivam/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshivam/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harshivam/DSA/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/harshivam/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/harshivam/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -210,6 +213,7 @@ Practicing DSA!!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/harshivam/DSA/tree/master/0733-flood-fill) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 ## Recursion
@@ -233,4 +237,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshivam/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
