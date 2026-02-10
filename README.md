@@ -35,6 +35,7 @@ Practicing DSA!!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshivam/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/harshivam/DSA/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshivam/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -65,6 +66,7 @@ Practicing DSA!!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshivam/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshivam/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -98,6 +100,7 @@ Practicing DSA!!
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/harshivam/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/harshivam/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/harshivam/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/harshivam/DSA/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshivam/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -125,6 +128,7 @@ Practicing DSA!!
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/harshivam/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -145,6 +149,7 @@ Practicing DSA!!
 | [0450-delete-node-in-a-bst](https://github.com/harshivam/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/harshivam/DSA/tree/master/0975-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,4 +246,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/harshivam/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
