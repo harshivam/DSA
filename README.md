@@ -119,6 +119,7 @@ Practicing DSA!!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshivam/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/harshivam/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
@@ -211,10 +212,12 @@ Practicing DSA!!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
+| [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 ## String
 |  |
 | ------- |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
+| [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 ## Design
 |  |
 | ------- |
@@ -258,4 +261,8 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshivam/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Counting
+|  |
+| ------- |
+| [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 <!---LeetCode Topics End-->
