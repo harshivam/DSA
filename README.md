@@ -113,6 +113,7 @@ Practicing DSA!!
 | [0066-plus-one](https://github.com/harshivam/DSA/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/harshivam/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/harshivam/DSA/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/harshivam/DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/harshivam/DSA/tree/master/1390-four-divisors) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -209,6 +210,7 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshivam/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/harshivam/DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
@@ -248,6 +250,7 @@ Practicing DSA!!
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/harshivam/DSA/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshivam/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Union-Find
 |  |
