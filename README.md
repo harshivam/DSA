@@ -117,6 +117,7 @@ Practicing DSA!!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/harshivam/DSA/tree/master/1390-four-divisors) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/harshivam/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshivam/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -190,6 +191,7 @@ Practicing DSA!!
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/harshivam/DSA/tree/master/0113-path-sum-ii) |
+| [1980-find-unique-binary-string](https://github.com/harshivam/DSA/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,11 +215,13 @@ Practicing DSA!!
 | [0904-fruit-into-baskets](https://github.com/harshivam/DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/harshivam/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/harshivam/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1980-find-unique-binary-string](https://github.com/harshivam/DSA/tree/master/1980-find-unique-binary-string) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 ## String
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/harshivam/DSA/tree/master/1980-find-unique-binary-string) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 ## Design
