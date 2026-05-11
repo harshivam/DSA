@@ -121,6 +121,7 @@ Practicing DSA!!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshivam/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1980-find-unique-binary-string](https://github.com/harshivam/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/harshivam/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2553-separate-the-digits-in-an-array](https://github.com/harshivam/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
@@ -185,6 +186,7 @@ Practicing DSA!!
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/harshivam/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
 |  |
