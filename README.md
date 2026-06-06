@@ -187,6 +187,7 @@ Practicing DSA!!
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/harshivam/DSA/tree/master/1603-design-parking-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harshivam/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/harshivam/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Prefix Sum
@@ -233,6 +234,7 @@ Practicing DSA!!
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/harshivam/DSA/tree/master/1603-design-parking-system) |
 | [3484-design-spreadsheet](https://github.com/harshivam/DSA/tree/master/3484-design-spreadsheet) |
 ## Matrix
 |  |
@@ -277,5 +279,6 @@ Practicing DSA!!
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/harshivam/DSA/tree/master/1603-design-parking-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/harshivam/DSA/tree/master/3839-number-of-prefix-connected-groups) |
 <!---LeetCode Topics End-->
